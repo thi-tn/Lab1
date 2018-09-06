@@ -1,9 +1,9 @@
 //
 //  ViewController.swift
-//  Lab1
+//  flixdemo
 //
-//  Created by student on 9/5/18.
-//  Copyright © 2018 student. All rights reserved.
+//  Created by student on 9/6/18.
+//  Copyright © 2018 Norah. All rights reserved.
 //
 
 import UIKit
