@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		28CBE0090E7E503BF7251C8F /* Pods_Lab1.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5BB3E9798C873710A374B76E /* Pods_Lab1.framework */; };
+		3F356A5F2145BC08003FDD31 /* PhotoDetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F356A5E2145BC08003FDD31 /* PhotoDetailsViewController.swift */; };
 		3FCC7E4F214044DA001219BA /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FCC7E4E214044DA001219BA /* AppDelegate.swift */; };
 		3FCC7E54214044DA001219BA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3FCC7E52214044DA001219BA /* Main.storyboard */; };
 		3FCC7E56214044DD001219BA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3FCC7E55214044DD001219BA /* Assets.xcassets */; };
@@ -39,6 +40,7 @@
 
 /* Begin PBXFileReference section */
 		2E629012BBFFCEBC5043FD10 /* Pods-Lab1Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Lab1Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-Lab1Tests/Pods-Lab1Tests.release.xcconfig"; sourceTree = "<group>"; };
+		3F356A5E2145BC08003FDD31 /* PhotoDetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoDetailsViewController.swift; sourceTree = "<group>"; };
 		3FCC7E4B214044DA001219BA /* Lab1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Lab1.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3FCC7E4E214044DA001219BA /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3FCC7E53214044DA001219BA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -119,6 +121,7 @@
 				3FCC7E4E214044DA001219BA /* AppDelegate.swift */,
 				3FF95E47214048CB00D8D857 /* PhotosViewController.swift */,
 				3FCC7E52214044DA001219BA /* Main.storyboard */,
+				3F356A5E2145BC08003FDD31 /* PhotoDetailsViewController.swift */,
 				3FCC7E55214044DD001219BA /* Assets.xcassets */,
 				3FCC7E57214044DD001219BA /* LaunchScreen.storyboard */,
 				3FF95E4B2140C4E200D8D857 /* PhotoCell.swift */,
@@ -380,6 +383,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3F356A5F2145BC08003FDD31 /* PhotoDetailsViewController.swift in Sources */,
 				3FCC7E4F214044DA001219BA /* AppDelegate.swift in Sources */,
 				3FF95E4C2140C4E200D8D857 /* PhotoCell.swift in Sources */,
 				3FF95E48214048CB00D8D857 /* PhotosViewController.swift in Sources */,
